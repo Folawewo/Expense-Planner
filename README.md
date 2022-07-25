@@ -2,8 +2,8 @@
 
 Android
 
-<img src="https://user-images.githubusercontent.com/52490093/180881028-db94c55c-5769-4544-8e40-089b3d866613.png" width="200" height="400">
-<img src="https://user-images.githubusercontent.com/52490093/180881057-77b3f56e-f22b-4f3a-8689-2460e9d40eb8.png" width="200" height="400">
+<img src="https://user-images.githubusercontent.com/52490093/180881028-db94c55c-5769-4544-8e40-089b3d866613.png" width="300" height="600">
+<img src="https://user-images.githubusercontent.com/52490093/180881057-77b3f56e-f22b-4f3a-8689-2460e9d40eb8.png" width="300" height="600">
 <img src="https://user-images.githubusercontent.com/52490093/180881064-0bf33e56-a1da-4337-aeab-d350cf2bb356.png" width="250" height="500">
 <img src="https://user-images.githubusercontent.com/52490093/180881067-2fc1ecdc-6e49-4e38-a3b3-19950b840f92.png" width="250" height="500">
 
