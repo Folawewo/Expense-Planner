@@ -2,13 +2,4 @@
 
 Android
 
-![android](/assets/images/android(a).png){:height="400px" width="450px"}
-![android](/assets/images/android(b).png){:height="400px" width="450px"}
-![android](/assets/images/android(c).png)
-![android](/assets/images/android(d).png)
-
-Ios
-![ios](/assets/images/ios(a).png)
-![ios](/assets/images/ios(b).png)
-![ios](/assets/images/ios(c).png)
-![ios](/assets/images/ios(d).png)
+<img src="https://user-images.githubusercontent.com/52490093/180880457-1ea71654-f242-4b18-b433-20e2db3b7777.png" width="150" height="280">
